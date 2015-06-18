@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">营口新闻网</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+ 	<!-- <string name="mainurl">http://wap.yingkounews.com</string> -->
+ 	<string name="mainurl">http://wap.yingkounews.com/</string>
+ 	<string name="pushurl">http://wap.yingkounews.com/</string>
+ 	
+ 	
+ 	 <string name="errcode_success">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_unknown">发送返回</string>
+
+    <string name="weibosdk_attention">注意</string>
+    <string name="weibosdk_delete_all">是否要删除这条微博？</string>
+    <string name="weibosdk_ok">是</string>
+    <string name="weibosdk_cancel">否</string>
+    <string name="weibosdk_app_name">com_weibo_android</string>
+    <string name="weibosdk_send">发送</string>
+     <string name="weibosdk_photo">拍照</string>
+    <string name="weibosdk_close">关闭</string>
+    <string name="weibosdk_share_dialog_title">新浪微博</string>
+    <string name="weibosdk_please_login">请登录！</string>
+    <string name="weibosdk_send_sucess">分享成功！</string>
+    <string name="weibosdk_send_failed">分享失败！</string>
+    <string name="weibosdk_del_pic">是否删除图片？</string>
+    
+    
+</resources>
